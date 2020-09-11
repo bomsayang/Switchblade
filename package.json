@@ -62,7 +62,7 @@
     "moment-timezone": "^0.5.23",
     "mongoose": "^5.4.19",
     "morgan": "^1.9.1",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "node-opus": "^0.3.1",
     "node-spotify-api": "^1.0.7",
     "pirate-speak": "^1.0.1",
